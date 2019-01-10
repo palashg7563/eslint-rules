@@ -2,8 +2,8 @@
 const deperecated = require('./src/deprecated');
 const { recommendedRules } = require('./src/recommeded_rules');
 
-console.log(deperecated());
+// console.log(deperecated());
 
-recommendedRules()
-  .then(e => console.log(e))
-  .catch(e => console.log(e));
+// recommendedRules()
+//   .then(e => console.log(e))
+//   .catch(e => console.log(e));
