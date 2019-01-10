@@ -11,6 +11,7 @@ For deprecated rules i have retrive the config file of eslint node_modules and f
 ### commands
 
 ```js
+npm install
 node index.js
 ```
 
